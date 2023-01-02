@@ -1,7 +1,7 @@
 ---
 title: Roberto Navarrete
 role: Data Analyst
-avatar_filename: foto-cv-roberto-pages.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
