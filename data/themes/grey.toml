@@ -3,7 +3,7 @@ name = "grey"
 
 [light]
   # Primary
-  primary = "#404040"
+  primary = "rgb(64, 64, 64)"
 
   # Menu
   menu_primary = "#F5F5F5"
