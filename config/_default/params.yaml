@@ -8,7 +8,7 @@
 appearance:
   theme_day: grey
   theme_night: grey
-  font: minimal
+  font: grey
   font_size: L
 
 # SEO
