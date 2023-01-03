@@ -6,8 +6,8 @@ name = "grey"
   primary = "rgb(64, 64, 64)"
 
   # Menu
-  menu_primary = "#F5F5F5"
-  menu_text = "#696969"
+  menu_primary = "#FFFFFF"
+  menu_text = "#8C8C8C"
   menu_text_active = "#404040"
   menu_title = "#404040"
 
