@@ -17,7 +17,7 @@ name = "gray"
 
 [dark]
   # Primary
-  primary = "#bbdefb"
+  primary = "#404040"
 
   link = "#bbdefb"
   link_hover = "#bbdefb"
