@@ -47,9 +47,9 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Navarrete
 highlight_name: true
-first_name: Alice
+first_name: Roberto
 email: ""
 ---
 
