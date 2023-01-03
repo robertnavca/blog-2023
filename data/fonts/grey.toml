@@ -2,7 +2,7 @@
 name = "grey"
 
 # Optional Google font URL
-google_fonts = "family=Montserrat:wght@400;700&family=Roboto:wght@100;400;400italic;700&family=Roboto+Mono&family=Raleway:wght@600;900&family=Oswald:wght@300;600&family=Exo+2:wght@800;900&family=Open+Sans:wght@300"
+google_fonts = "family=Exo+2:wght@800;900&family=Roboto+Mono:wght@300&family=Roboto:ital,wght@0,100;0,400;0,700;1,400"
 
 # Font families
 heading_font = "Exo 2"
